@@ -1,0 +1,3 @@
+#There is an error message because there needs to be an ampersand on line 1, inside the parenthesis, before 'block'. 
+
+As written, 'block' is an argument. But when the code says 'block.call', then the program is looking for a block to use, not an argument.

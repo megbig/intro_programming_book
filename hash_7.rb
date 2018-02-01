@@ -1,0 +1,1 @@
+# the different is that 'x:' is a symbol and 'x' is a variable

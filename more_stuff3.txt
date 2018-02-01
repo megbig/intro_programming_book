@@ -1,0 +1,1 @@
+#exception handing is a way to check for errors and to continue with the program even if there is an error. (Instead of having the program stop at the error.)
